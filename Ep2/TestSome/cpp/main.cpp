@@ -1,4 +1,4 @@
-#include "../../SomeLibDemo/cpp/adder.h"
+#include "adder.h"
 #include <iostream>
 
 int main()
